@@ -1,0 +1,11 @@
+review,sentiment,condition,rating
+"This medicine worked very well for my headache",2,0,9
+"I had severe side effects and felt worse",0,2,2
+"It helped reduce my fever quickly",2,1,8
+"No improvement even after using for weeks",1,3,4
+"Excellent results, pain completely gone",2,0,10
+"Caused dizziness and nausea",0,2,3
+"Moderate effect, not too bad",1,4,6
+"Worked slowly but effective",2,1,7
+"Terrible experience, would not recommend",0,3,1
+"Average results, okay for mild issues",1,4,5
